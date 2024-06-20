@@ -1,6 +1,10 @@
 Desenvolvido em Python utilizando a TK - Interface (Biblioteca de Interface Gráfica do Usuário), este é um jogo para 2 players, 
 em que o principal objetivo é marcar uma série de 3 quadros na horizontal, vertical ou diagonal.
 
+O Título "X's turn" (Vez do X) e "O's turn" (Vez do O) indica qual player deve fazer a jogada.
+O botão "Restart" reinicia a partida.
+As partidas têm 3 possíveis finais: "X's win" (X venceu), "O's win" (O venceu) ou "Tie" (Empate).
+
 > Tela Inicial
 
 ![Captura de tela 2024-06-20 152805](https://github.com/Sullara/Jogo-da-Velha/assets/146398676/61942b34-9716-4796-9259-3e1311ea899c)
