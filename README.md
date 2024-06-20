@@ -1,4 +1,4 @@
-Desenvolvido em Python utilizando a TK - Interface (Biblioteca de Interface Gráfica do Usuário), este é um jogo para 2 players, 
+Desenvolvido em Python utilizando a TK - Interface (Biblioteca de Interface Gráfica do Usuário), este é um jogo para 2 players (user vs user), 
 em que o principal objetivo é marcar uma série de 3 quadros na horizontal, vertical ou diagonal.
 
 O Título "X's turn" (Vez do X) e "O's turn" (Vez do O) indica qual player deve fazer a jogada, 
