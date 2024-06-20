@@ -4,9 +4,9 @@ em que o principal objetivo é marcar uma série de 3 quadros na horizontal, ver
 O Título "X's turn" (Vez do X) e "O's turn" (Vez do O) indica qual player deve fazer a jogada, 
 por padrão o jogador X inicia a primeira partida.
 
-O botão "Restart" reinicia o jogo.
-
 As partidas têm 3 possíveis finais: "X's win" (X venceu), "O's win" (O venceu) ou "Tie" (Empate).
+
+O botão "Restart" reinicia o jogo.
 
 > Tela Inicial
 
